@@ -21,13 +21,13 @@ Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I attend the [Un
 ## Tools and Frameworks
 - Known -
 
-| [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/noetic.png" alt="rosnoetic logo" width="24">](https://wiki.ros.org/noetic) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/zsh.png" alt="zsh logo" width="24">](http://zsh.sourceforge.net/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/premier.png" alt="premierpro logo" width="24">](https://www.adobe.com/products/premiere.html) |
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/foxy.png" alt="rosfoxy logo" width="24">](https://index.ros.org/doc/ros2/Releases/Release-Foxy-Fitzroy/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/noetic.png" alt="rosnoetic logo" width="24">](https://wiki.ros.org/noetic) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/zsh.png" alt="zsh logo" width="24">](http://zsh.sourceforge.net/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/premier.png" alt="premierpro logo" width="24">](https://www.adobe.com/products/premiere.html) |
+|---|---|---|---|---|---|---|
 
 - Learning -
 
-| [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/foxy.png" alt="rosfoxy logo" width="24">](https://index.ros.org/doc/ros2/Releases/Release-Foxy-Fitzroy/) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/githubactions.png" alt="githubactions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |
-|---|---|---|
+| [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/githubactions.png" alt="githubactions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |
+|---|---|
 
 ## Connect with Me :wave:
 - [Linkedin](https://www.linkedin.com/in/kevin-koffroth/)

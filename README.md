@@ -31,4 +31,4 @@ Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I attend the [Un
 ## Connect with Me :wave:
 - [Linkedin](https://www.linkedin.com/in/kevin-koffroth/)
 - [Instagram](https://www.instagram.com/ktkoffroth/)
-- [Personal Website/Blog](http://www.kevinkoffroth.com/)
+- [Personal Website/Blog](https://kevinkoffroth.com/)

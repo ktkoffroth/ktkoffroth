@@ -7,6 +7,8 @@ Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I attend the [Un
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=ktkoffroth&show_icons=true&hide=["stars"])](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktkoffroth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Programming Languages
 - Known -
 

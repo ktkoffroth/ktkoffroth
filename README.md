@@ -2,7 +2,7 @@
 Junior RF/Test Engineer @ Georgia Tech Research Institute
 
 ## About <!-- edit this to include a link to a relevant Embedded Systems/Robotics project in the future --> 
-Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I am a [University of Georgia](https://www.uga.edu/) graduate in Computer Systems Engineering, and I currently work as a Junior RF/Test Engineer at Georgia Tech Research Institute. I love to work on [robotics](https://github.com/uga-robotics/AutonomousHexacopter) and [embedded systems](https://github.com/ktkoffroth/ubody-firmware-atmega2560) projects, and I hope to get more of those opportunities in the future!
+Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I am a [University of Georgia](https://www.uga.edu/) graduate in Computer Systems Engineering, and I currently work as a Junior RF/Test Engineer at [Georgia Tech Research Institute](https://gtri.gatech.edu/). I love to work on [robotics](https://github.com/uga-robotics/AutonomousHexacopter) and [embedded systems](https://github.com/ktkoffroth/ubody-firmware-atmega2560) projects, and I hope to get more of those opportunities in the future!
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=ktkoffroth&show_icons=true&hide=["stars"]&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,8 +1,8 @@
 # Kevin Koffroth :robot:
-Junior RF/Test Engineer @ Georgia Tech Research Institute
+Research Engineer 1 @ Georgia Tech Research Institute
 
 ## About <!-- edit this to include a link to a relevant Embedded Systems/Robotics project in the future --> 
-Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I am a [University of Georgia](https://www.uga.edu/) graduate in Computer Systems Engineering, and I currently work as a Junior RF/Test Engineer at [Georgia Tech Research Institute](https://gtri.gatech.edu/). I love to work on [robotics](https://github.com/uga-robotics/AutonomousHexacopter) and [embedded systems](https://github.com/ktkoffroth/ubody-firmware-atmega2560) projects, and I hope to get more of those opportunities in the future!
+Hi, I'm Kevin Koffroth, hailing from Savannah, Georgia. I am a [University of Georgia](https://www.uga.edu/) graduate in Computer Systems Engineering, and I currently work as a Research Engineer I at [Georgia Tech Research Institute](https://gtri.gatech.edu/). I love to work on [robotics](https://github.com/uga-robotics/AutonomousHexacopter) and [embedded systems](https://github.com/ktkoffroth/ubody-firmware-atmega2560) projects, and I hope to get more of those opportunities in the future.
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=ktkoffroth&show_icons=true&hide=["stars"]&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,7 +28,7 @@ Hi! I'm Kevin Koffroth, hailing proudly from Savannah, Georgia. I am a [Universi
 | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/githubactions.png" alt="githubactions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/ktkoffroth/ktkoffroth/master/img/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |
 |---|---|
 
-## Connect with Me :wave:
+## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/kevin-koffroth/)
 - [Instagram](https://www.instagram.com/ktkoffroth/)
 - [Personal Website/Blog](https://kevinkoffroth.com/)
